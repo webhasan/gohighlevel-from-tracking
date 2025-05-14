@@ -1,4 +1,4 @@
-# GoHighLevel Form Tracking GTM DataLayer
+# GoHighLevel Form Tracking Code -  GTM DataLayer 
 
 ## How to use 
 1. In Google Tag Manager, create a new tag as a custom HTML tag.
